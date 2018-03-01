@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 import visa
 import os
 from PyQt4 import QtCore, QtGui
-from interfaceui import Ui_MainWindow, _fromUtf8
+from interface import Ui_MainWindow, _fromUtf8
 
 
 class StartQT4(QtGui.QMainWindow):
